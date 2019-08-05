@@ -16,7 +16,7 @@ Por lo que se va aplicar la funcion tangente a cada uno de los numeros para obse
 
 RESULTADO
 ======
-
+Imagen mostrada inicialmente
 
 Output de la consola:
 
